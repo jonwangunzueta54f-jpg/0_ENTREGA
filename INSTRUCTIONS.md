@@ -23,14 +23,14 @@ Simulate the assembly and verify the operation of the following integrated circu
 
 | **Gates** | **Imagen** |
 |-----------|------------|
-| **4044** → NAME?  | ![NAME?](imagen_xor.png) |
-| **74100** → NAME?   | ![NAME?](imagen_or.png) |
-| **74175** → NAME?  | ![NAME?](imagen_and.png) |
-| **7476** → NAME? | ![NAME?](imagen_not.png) |
-| **4027** → NAME?  | ![NAME?](imagen_nor.png) |
-| **74164** → NAME? | ![NAME?](imagen_nand.png) |
-| **74165** → NAME?  | ![NAME?](imagen_not.png) |
-| **74595** → NAME?  | ![NAME?](imagen_and.png) |
+| **7400** → NAME?  | ![NAME?](imagen_xor.png) |
+| **7402** → NAME?   | ![NAME?](imagen_or.png) |
+| **7404** → NAME?  | ![NAME?](imagen_and.png) |
+| **7405** → NAME? | ![NAME?](imagen_not.png) |
+| **7408** → NAME?  | ![NAME?](imagen_nor.png) |
+| **7432** → NAME? | ![NAME?](imagen_nand.png) |
+| **7486** → NAME?  | ![NAME?](imagen_not.png) |
+| **4082** → NAME?  | ![NAME?](imagen_and.png) |
 
 
 ---
