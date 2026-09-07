@@ -1,4 +1,4 @@
-# 🛠️ Ensamblaje de Circuitos Secuenciales / Zirkuitu Sekuentzialen Muntaketa / Sequential Circuits Assembly 
+# 🛠️ Ensamblaje de Puertas Lógicas / Ate Logikoen Muntaketa / Logic Gates Assembly 
 
 | **Alumnos** | **Curso** | **Módulo** |
 |-------------|-----------|------------|
